@@ -47,32 +47,32 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBcYtU-BlqBSAhQPeD7YJg9Q4uI0BuVOs0',
-    appId: '1:534958785261:web:6a4f9d212686e2773c02e4',
-    messagingSenderId: '534958785261',
-    projectId: 'smartcareerconnect-c8269',
-    authDomain: 'smartcareerconnect-c8269.firebaseapp.com',
-    databaseURL: 'https://smartcareerconnect-c8269-default-rtdb.firebaseio.com',
-    storageBucket: 'smartcareerconnect-c8269.appspot.com',
-    measurementId: 'G-N788MT2QGG',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    databaseURL: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCDeITmSjr7BRx_cztt29oDM-YxCaBwT_k',
-    appId: '1:534958785261:android:3ae5873f1db97c093c02e4',
-    messagingSenderId: '534958785261',
-    projectId: 'smartcareerconnect-c8269',
-    databaseURL: 'https://smartcareerconnect-c8269-default-rtdb.firebaseio.com',
-    storageBucket: 'smartcareerconnect-c8269.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCdDW6pRHfFEUZnzvVJ3UFbLmz1ZYSnmgc',
-    appId: '1:534958785261:ios:e0a2d22ccf55cee83c02e4',
-    messagingSenderId: '534958785261',
-    projectId: 'smartcareerconnect-c8269',
-    databaseURL: 'https://smartcareerconnect-c8269-default-rtdb.firebaseio.com',
-    storageBucket: 'smartcareerconnect-c8269.appspot.com',
-    iosBundleId: 'com.scc.campussafar.csafar',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }
