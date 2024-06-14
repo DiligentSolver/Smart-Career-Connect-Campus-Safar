@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-# Smart-Career-Connect-Campus-Safar-
+# Smart-Career-Connect-Campus-Safar
 “Smart Career Connect” addresses the inefficiencies and lack of transparency  in traditional career placement processes through the development of 'Smart Career Connect,' a  cross-platform mobile application.
 
 Objective of Project:
